@@ -10,13 +10,21 @@ TODO:
 
 ## gSchool and alumni
 
-  * [Teddi Maull](http://www.teddimaull.com/)
-
   __g18 bloggers__
+
+  * ["Perceptive" Pat Beam](http://quasiventus.com/)
+
+  * [Taylor Smith](http://taylorjeveryday.com/)
+
+  * [Chris Brown](http://chrisbrowndenver.wordpress.com/)
 
   * [Stu Urback](http://www.urback.net/)
 
   * [Sean Brage](http://www.18track.com/)
+
+  __alumni__
+
+  * [Teddi Maull](http://www.teddimaull.com/)
 
 ## Bookmarking and saving
 
@@ -118,6 +126,8 @@ TODO:
 
 ## Design, Colors
 
+  * [adobeknowhow](https://www.adobeknowhow.com/): free photoshop basics
+
   * [Color Picker for Mac](https://itunes.apple.com/us/app/color-picker/id641027709?mt=12)
 
   * [colourlovers](http://colourlovers.com/)
@@ -135,6 +145,10 @@ TODO:
   * [meetups](http://www.meetup.com/cities/us/co/denver/tech/)
 
 ## Git and Version Control
+
+  * [markdown](https://guides.github.com/features/mastering-markdown/)
+
+  * [git pages](https://guides.github.com/features/pages/)
 
   * [Adding/Removing branches](http://www.gitguys.com/topics/adding-and-removing-remote-branches/#Commands_discussed_in_this_section)
 
