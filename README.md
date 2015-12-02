@@ -52,6 +52,8 @@ TODO:
 
   * [a book apart](https://www.dropbox.com/sh/myfptl0d1cwm8oo/AAA_Vq0jZC-nEJATsA2krS4qa?dl=0)
 
+  * [Stu's List of Books 'n Email](https://docs.google.com/a/urback.net/document/d/15549M4_Y6uIg7v5YX9M-I8UiG9aaDdnjAtqXq795JJg/edit?usp=sharing)
+
   __Podcasts__
 
   * [stuslist](https://docs.google.com/document/d/1jEbGU8wg2qNLGkmP28BGF1beuWQFqhtuv1uV9nsaDcQ/edit?usp=sharing)
@@ -131,6 +133,17 @@ TODO:
   * [Color Picker for Mac](https://itunes.apple.com/us/app/color-picker/id641027709?mt=12)
 
   * [colourlovers](http://colourlovers.com/)
+
+  * [UX Tools](http://uxdesign.cc/ux-tools/)
+
+  * [Nielsen Norman Group](http://www.nngroup.com/articles/)
+
+  * [Design for Hackers](http://designforhackers.com/)
+
+  * [Game Design Concepts](http://gamedesignconcepts.wordpress.com/)
+
+  * [Critical///Path](http://criticalpathproject.com/?trailer#)
+
 
 ## Careers
 
